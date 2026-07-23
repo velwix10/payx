@@ -232,5 +232,6 @@ MIT License
 PayX Uzbekistan
 ochiq kod:https://github.com/velwix10/payx
 saytimiz:https://velwix.web.app
+dasturchi:htts://allaberganov.web.app
 
 Agar loyiha sizga foydali bo'lsa ⭐ berishni unutmang.
