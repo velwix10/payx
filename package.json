@@ -1,6 +1,6 @@
 {
   "name": "payxuz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PayX Merchant API bilan ishlash uchun rasmiy va qulay JavaScript SDK",
   "main": "index.js",
   "type": "commonjs",
