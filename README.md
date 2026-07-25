@@ -11,6 +11,27 @@ Ushbu SDK orqali siz:
 - 🧪 Sandbox muhitida to'lovni simulyatsiya qilishingiz
 - ✅ Sandbox to'lov holatini tekshirishingiz mumkin.
 
+# 🚀 PayX qanday ishlaydi?
+
+PayX yordamida onlayn to'lovlarni bir necha oddiy qadam orqali qabul qilishingiz mumkin.
+
+## 1️⃣ Hisob yarating
+PayX platformasida ro'yxatdan o'ting va API kalitlaringizni oling. (havola:https://payx.uz)
+
+## 2️⃣ To'lov havolasini yuboring
+Mijozingizga yaratilgan to'lov havolasini yuboring.
+
+## 3️⃣ Mijoz to'laydi
+Mijoz o'zi uchun qulay to'lov usulini tanlaydi:
+- 💙 Payme
+- 💚 Click
+- 🧡 OSON
+
+## 4️⃣ To'lovni qabul qiling
+To'lov muvaffaqiyatli amalga oshirilgach:
+- 💰 Mablag' PayX balansingizga tushadi.
+- 🔔 Sizga darhol xabarnoma yuboriladi.
+- 📦 Webhook orqali tizimingiz ham avtomatik xabardor qilinadi.
 ---
 
 # O'rnatish
@@ -231,7 +252,9 @@ MIT License
 
 PayX Uzbekistan
 ochiq kod:https://github.com/velwix10/payx
-saytimiz:https://velwix.web.app
-dasturchi:https://allaberganov.web.app
+saytimiz:https://payx.uz
+dasturchi:https://telegram.me/AllaberganovDev
+instagram:https://instagram.com/myit_uzbekistan
+telegram:https://t.me/myit_uzbekistan
 
 Agar loyiha sizga foydali bo'lsa ⭐ berishni unutmang.
